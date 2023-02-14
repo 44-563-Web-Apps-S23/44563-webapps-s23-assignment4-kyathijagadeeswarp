@@ -1,27 +1,27 @@
 .speech {
     font-style: italic;
     font-size: 20px;
-color: #000000;
+color: #000000c4;
 }
 
 .direction {
     font-style: italic;
     font-size: 15px;
     color: #000000;
-    background-color: #eedd82;
+    background-color: #ecdc80;
 }
 
 .direction:hover {
-    background-color:blue;
+    background-color:rgb(70, 128, 111);
     font-size: 15px;
-    color:cadetblue;
+    color:rgb(106, 184, 101);
 }
 .LANE {
-    background-color:brown;
+    background-color:rgb(218, 148, 203);
     font-style: serif;
 }
 .BAUER {
-    background-color:red;
+    background-color:rgb(92, 144, 177);
     font-style:Sans Serif;
 }
 
